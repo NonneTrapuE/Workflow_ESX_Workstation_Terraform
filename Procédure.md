@@ -7,7 +7,7 @@
 - Aller sur la nouvelle machine clonée
 - Onglet File -> Export to OVF
 
-# Import ESXi avec Terraform 
+# Déploiement ESXi avec Terraform 
 
 - Sur ESXi, Configurer le SSH
 - Dans le script Terraform, modifier les lignes esxi_hostname,esxi_username et esxi_password. (le fichier est commenté)
