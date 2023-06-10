@@ -19,5 +19,4 @@
 Pour plus de renseignements, notamment sur les options disponibles :
 https://github.com/jauderho/terraform-provider-esxi
 
-Pour les ovftools, c'est disponible ici :
 
