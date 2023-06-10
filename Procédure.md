@@ -14,7 +14,7 @@
 - Modifier également les lignes guest_name, disk_store, memsize et numvcpus en fonction de la configuration voulue
 - Modifier la ligne ovf_source pour indiquer la destination du fichier.
 - Modifier la ligne virtual_network si besoin.
-- La partie provisionning n'est pas encore testée.
+- Lancer Terraform
 
 Pour plus de renseignements, notamment sur les options disponibles :
 https://github.com/jauderho/terraform-provider-esxi
