@@ -1,4 +1,4 @@
-Terraform - Procédure ESXi
+#Terraform - Procédure ESXi#
 
 - Installer les ovftools* sur la machine hôte et modifier la variable PATH 
 - Créer la VM sur Workstation et la configurer
@@ -7,7 +7,7 @@ Terraform - Procédure ESXi
 - Aller sur la nouvelle machine clonée
 - Onglet File -> Export to OVF
 
-Import ESXi avec Terraform
+#Import ESXi avec Terraform#
 
 - Sur ESXi, Configurer le SSH
 - Dans le script Terraform, modifier les lignes esxi_hostname,esxi_username et esxi_password. (le fichier est commenté)
