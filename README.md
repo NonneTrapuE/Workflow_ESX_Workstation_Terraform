@@ -6,6 +6,7 @@
 - Onglet VM -> Manage -> Change Hardware Compatibility -> ESXI version 7 (ou version souhaitée) -> Create new clone of this virtual machine
 - Aller sur la nouvelle machine clonée
 - Onglet File -> Export to OVF
+- Nommer l'export nom_template.ova (le format ova permet d'avoir le template dans un fichier unique) 
 
 # Déploiement ESXi avec Terraform 
 
